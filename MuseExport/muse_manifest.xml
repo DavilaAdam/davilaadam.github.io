@@ -1,0 +1,47 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myMUSE.com" resolutions="1x" timestamp="1541364140951">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3995114364" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="videoblocks-animation-dust-particles-on-a-black-background-4k_s7fw8itm5l_thumbnail-full01.png" crc="4132287786" seo="true" mt="1540988895000"/>
+    <file name="moveable-content_1.0.0.zxp" crc="306607952" seo="true" mt="1540989724000"/>
+    <file name="webdesign-userpass.html" crc="3895863363" seo="true" mt="1536710927000"/>
+    <file name="updatedpoemcss2.html" crc="4197922659" seo="true" mt="1540342669000"/>
+    <file name="poem-part-2.gif" crc="4042744937" seo="true" mt="1540212003000"/>
+    <file name="patience-2.gif" crc="505574003" seo="true" mt="1539444411000"/>
+    <file name="updatedpoem-css.html" crc="3822533012" seo="true" mt="1541363710000"/>
+    <file name="poemassignment2.0.html" crc="3835276697" seo="true" mt="1541363700000"/>
+    <file name="updatedpoemcss-2.html" crc="97925170" seo="true" mt="1541363721000"/>
+    <file name="iwanttosavethiswhale.html" crc="124320404" seo="true" mt="1541363299000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="new-year-2.gif" crc="3886298453" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixeltree.png" crc="4158256468" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blue-whale.gif" crc="4212689058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nets-2.gif" crc="3990584928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="orkasani3-killerwhale-orcas-animated.gif" crc="4186211500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4272673820" seo="true" mt="1541364116106" redirect="true"/>
+</manifest>
