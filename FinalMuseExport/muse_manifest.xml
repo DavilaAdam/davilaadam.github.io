@@ -1,0 +1,159 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="finalwebsite.com" resolutions="1x" timestamp="1544374013736">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="drawings.css" crc="4249092961" ref="drawings"/>
+    <file name="editing.css" crc="222034152" ref="editing"/>
+    <file name="sketches.css" crc="4201164839" ref="sketches"/>
+    <file name="final.css" crc="476772273" ref="final"/>
+    <file name="index.css" crc="309192280" ref="index"/>
+    <file name="video.css" crc="4132555072" ref="video"/>
+  </folder>
+  <folder name="assets">
+    <file name="427431__erokia__ambient-wave-40.wav" crc="26774799" seo="true" mt="1525628804000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:drawings:sketches:video:editing:final"/>
+    <file name="museutils.js" crc="4216313831" ref="index:drawings:sketches:video:editing:final"/>
+    <file name="whatinput.js" crc="86476730" ref="index:drawings:sketches:video:editing:final"/>
+    <file name="museconfig.js" crc="474374037" ref="index:drawings:sketches:video:editing:final"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:drawings:sketches:video:editing:final"/>
+    <file name="require.js" crc="3951022091" ref="index:drawings:sketches:video:editing:final"/>
+  </folder>
+  <folder name="images">
+    <file name="homebackground.jpg" crc="514054266" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fastfoto_2063.jpg" crc="3842932934" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="fastfoto_2034.jpg" crc="4204236946" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="fastfoto_2089.jpg" crc="4085276477" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="fastfoto_2061.jpg" crc="118624756" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="bikeriding.gif" crc="494658830" seo="true" ref="drawings:editing">
+      <caption webpage="drawings" alt=""/>
+      <caption webpage="editing" alt=""/>
+    </file>
+    <file name="girlwithball.gif" crc="4158805574" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="fastfoto_2115.jpg" crc="4236012210" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="openingthedoor.gif" crc="342575005" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="bike.gif" crc="392554690" seo="true" ref="drawings:video">
+      <caption webpage="video" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="shoes.gif" crc="4162195535" seo="true" ref="drawings:video">
+      <caption webpage="video" alt=""/>
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="ballvideo.gif" crc="3863686513" seo="true" ref="drawings:video">
+      <caption webpage="video" alt=""/>
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="shoesdrawing.gif" crc="523650747" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="openingthedoorvideo.gif" crc="232203655" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="2018_summer_animation_0030.jpg" crc="4127002050" seo="true" ref="drawings">
+      <caption webpage="drawings" alt=""/>
+    </file>
+    <file name="story.jpg" crc="3941620119" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="persononbikesketch.png" crc="3983847355" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="personholdingballsketch.png" crc="338526836" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="theme.png" crc="3974198866" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="personholdingtheball.png" crc="4076144598" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="bikeriding.png" crc="111407281" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="shoes.png" crc="3775073778" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="ballsketch7x5.png" crc="4026224588" seo="true" ref="sketches">
+      <caption webpage="sketches" alt=""/>
+    </file>
+    <file name="ballsketch-u468.png" crc="4076578370" ref="sketches"/>
+    <file name="looking.gif" crc="3959672142" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="ballsketch233x186.png" crc="131230248" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="personholdingtheball259x208.png" crc="262844114" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="persononbikesketch217x174.png" crc="273926740" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="bikeriding301x241.png" crc="3866122409" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="shoessketch.png" crc="180274789" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="bikesketch.png" crc="13809628" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="coloredshoe.gif" crc="14768972" seo="true" ref="editing">
+      <caption webpage="editing" alt=""/>
+    </file>
+    <file name="fastfoto_2060.jpg" crc="4115018495" seo="true" ref="editing">
+      <caption webpage="editing" alt=""/>
+    </file>
+    <file name="fastfoto_2042.jpg" crc="3796522077" seo="true" ref="editing">
+      <caption webpage="editing" alt=""/>
+    </file>
+    <file name="bikecolor.gif" crc="4164802784" seo="true" ref="editing">
+      <caption webpage="editing" alt=""/>
+    </file>
+    <file name="2018_summer_animation_0054.jpg" crc="49962571" seo="true" ref="editing">
+      <caption webpage="editing" alt=""/>
+    </file>
+    <file name="stopcolor.gif" crc="3860271833" seo="true" ref="editing">
+      <caption webpage="editing" alt=""/>
+    </file>
+    <file name="2018_summer_animation_0057.jpg" crc="4077459715" seo="true" ref="editing">
+      <caption webpage="editing" alt=""/>
+    </file>
+    <file name="2018_summer_animation_0058.jpg" crc="4269987260" seo="true" ref="editing">
+      <caption webpage="editing" alt=""/>
+    </file>
+    <file name="lookingrightcolor.gif" crc="3792630140" seo="true" ref="editing">
+      <caption webpage="editing" alt=""/>
+    </file>
+    <file name="2018_summer_animation_0075.jpg" crc="471338203" seo="true" ref="editing">
+      <caption webpage="editing" alt=""/>
+    </file>
+    <file name="2018_summer_animation_0076.jpg" crc="246411469" seo="true" ref="editing">
+      <caption webpage="editing" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="13609154" seo="true" mt="1544373882105" redirect="true"/>
+  <file name="drawings.html" crc="4086796409" seo="true" mt="1544373957353" redirect="true"/>
+  <file name="sketches.html" crc="3873849396" seo="true" mt="1544373662161" redirect="true"/>
+  <file name="video.html" crc="288101274" seo="true" mt="1544373872227" redirect="true"/>
+  <file name="editing.html" crc="4265001891" seo="true" mt="1544373942797" redirect="true"/>
+  <file name="final.html" crc="4153467558" seo="true" mt="1544056816802" redirect="true"/>
+</manifest>
